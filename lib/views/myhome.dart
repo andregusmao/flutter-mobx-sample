@@ -1,7 +1,6 @@
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter/material.dart';
 import 'package:mobx_sample/stores/form_store.dart';
-import 'package:mobx_sample/stores/person_store.dart';
 
 class MyHomePage extends StatelessWidget {
   @override
